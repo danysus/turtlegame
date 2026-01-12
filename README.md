@@ -52,7 +52,7 @@ It features a high-fidelity loading sequence designed to give the user a "AAA Ga
 ### 📂 How to Run
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/turtle-draw.git](https://github.com/YOUR_USERNAME/turtle-draw.git)
+git clone [https://github.com/danysus/turtle-draw.git](https://github.com/danysus/turtle-draw.git)
 
 # Navigate into the directory
 cd turtle-draw
