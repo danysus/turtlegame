@@ -52,10 +52,10 @@ It features a high-fidelity loading sequence designed to give the user a "AAA Ga
 ### 📂 How to Run
 ```bash
 # Clone the repository
-git clone [https://github.com/danysus/turtle-draw.git](https://github.com/danysus/turtle-draw.git)
+git clone [https://github.com/danysus/turtlegame
 
 # Navigate into the directory
-cd turtle-draw
+cd turtlegame
 
 # Execute the engine
 python main.py
